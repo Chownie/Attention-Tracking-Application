@@ -18,7 +18,7 @@ For each trial, launch the application on the device and repeat the steps below.
 
 # Log files
 
-Files are logged to the available local user storage. On a windows machine this is often ```%APPDATA%\..\LocalLow\DefaultCompany\Attention Study````
+Files are logged to the available local user storage. On a windows machine this is often ```%APPDATA%\..\LocalLow\DefaultCompany\Attention Study```
 
 On the device it was trialed upon originally this is ```/Android/data/com.AsaDawson.AttentionStudy/files```
 
